@@ -1,1 +1,0 @@
-# Apenas fazendo para que o github reconheca a pasta
